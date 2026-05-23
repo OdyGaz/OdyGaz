@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Odhisea Gazeli! 🚀
 
-<!--
-**OdyGaz/OdyGaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a self-taught developer on a journey to learn programming from scratch. 
+I am building a solid foundation in both backend logic and frontend web development.
 
-Here are some ideas to get you started:
+### 📚 My Learning Roadmap:
+- 🐍 **Python**: General programming, logic, and scripting.
+- 🌐 **HTML5 & CSS3**: Building and styling responsive web pages.
+- ⚡ **JavaScript**: Adding interactivity and logic to the web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Current Projects & Exercises:
+*You can find my learning repositories below.*
+
+### 📫 Let's Connect:
+- LinkedIn: www.linkedin.com/in/odhisea-gazeli
