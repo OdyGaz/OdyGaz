@@ -8,8 +8,5 @@ I am building a solid foundation in both backend logic and frontend web developm
 - 🌐 **HTML5 & CSS3**: Building and styling responsive web pages.
 - ⚡ **JavaScript**: Adding interactivity and logic to the web.
 
-### 🛠️ Current Projects & Exercises:
-*You can find my learning repositories below.*
-
 ### 📫 Let's Connect:
 - LinkedIn: www.linkedin.com/in/odhisea-gazeli
