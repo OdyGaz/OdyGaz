@@ -1,12 +1,27 @@
-# Hi, I'm Odhisea Gazeli! 🚀
+# Hi, I'm Odisea Gazeli! 👋
 
-I am a self-taught developer on a journey to learn programming from scratch. 
-I am building a solid foundation in both backend logic and frontend web development.
+<img src="https://odygaz.github.io/assets/avatar.png" align="right" width="220" alt="Lego Avatar">
 
-### 📚 My Learning Roadmap:
-- 🐍 **Python**: General programming, logic, and scripting.
-- 🌐 **HTML5 & CSS3**: Building and styling responsive web pages.
-- ⚡ **JavaScript**: Adding interactivity and logic to the web.
+### 🔬 Joint PhD Candidate in Plasma Physics & Applications
+Welcome to my GitHub profile! I am an experimental and computational physicist focusing on low-temperature plasma diagnostics, simulation (COMSOL), laser-assisted techniques (LIBS), and data analysis.
 
-### 📫 Let's Connect:
-- LinkedIn: www.linkedin.com/in/odhisea-gazeli
+🔗 **[Click here to visit my Interactive CV & Portfolio Website](https://odygaz.github.io)**
+
+---
+
+### 🎓 Quick Overview
+- 💼 **Research Fellow** | University of Bologna, Italy
+- 🎓 **Joint PhD Candidate** | University of Cyprus & University of Jaén
+- 🎓 **MSc in Physics (Photonics & Lasers)** | University of Patras
+
+### 🛠️ Core Skills
+- **Experimental:** Low-Temp Plasma Diagnostics, LIBS, Mass Spectrometry (AIMS)
+- **Computational:** COMSOL Multiphysics, Python, MATLAB, CAD Design
+
+---
+
+<p align="left">
+  <a href="https://odygaz.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/View_My_Interactive_CV-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Interactive CV">
+  </a>
+</p>
