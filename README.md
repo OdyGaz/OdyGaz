@@ -1,6 +1,6 @@
 # Hi, I'm Odisea Gazeli! 👋
 
-<img src="https://odygaz.github.io/assets/avatar.png" align="right" width="220" alt="Lego Avatar">
+<img src="https://odygaz.github.io/assets/images/avatar.png" align="right" width="220" alt="Lego Avatar">
 
 ### 🔬 Joint PhD Candidate in Plasma Physics & Applications
 Welcome to my GitHub profile! I am an experimental and computational physicist focusing on low-temperature plasma diagnostics, simulation (COMSOL), laser-assisted techniques (LIBS), and data analysis.
