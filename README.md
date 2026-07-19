@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I am an experimental and computational physicist f
 
 ### 🎓 Quick Overview
 - 💼 **Research Fellow** | University of Bologna, Italy
-- 🎓 **Joint PhD Candidate** | University of Cyprus & University of Jaén
+- 🎓 **PhD** | University of Cyprus & University of Jaén
 - 🎓 **MSc in Physics (Photonics & Lasers)** | University of Patras
 
 ### 🛠️ Core Skills
